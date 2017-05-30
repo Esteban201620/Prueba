@@ -12,6 +12,7 @@ public class Controlador {
 
     public static ArrayList<Iglesia> iglesias;
 
+
     public static void inicializarBD(){
         Controlador.iglesias = new ArrayList<>();
         Controlador.iglesias.add(new Iglesia(new LatLng(4.583861,-74.097587),"Iglesia Bethel"));
