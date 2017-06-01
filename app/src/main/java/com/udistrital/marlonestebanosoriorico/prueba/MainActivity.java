@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.google.android.gms.maps.model.LatLng;
+import com.udistrital.marlonestebanosoriorico.prueba.R;
 
 import java.util.ArrayList;
 
@@ -33,3 +34,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+
+

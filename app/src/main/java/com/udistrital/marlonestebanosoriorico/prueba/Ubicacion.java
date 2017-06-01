@@ -14,6 +14,7 @@ import com.google.android.gms.maps.UiSettings;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.udistrital.marlonestebanosoriorico.prueba.R;
 
 import java.util.ArrayList;
 
